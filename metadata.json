@@ -1,0 +1,5 @@
+{
+  "name": "Wristory Serenity AI",
+  "description": "Guided meditation powered by yesoklab's Digital Heritage and Gemini AI.",
+  "requestFramePermissions": ["microphone"]
+}
